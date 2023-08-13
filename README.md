@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamS2003
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning web dev and C Programming
-- 💞️ I’m looking to collaborate on web dev projects
+- 🌱 I’m currently learning web3.
+- 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me? My email: sandhyayamlur1@gmail.com My IG: shubhamsoni1112
 
 <!---
